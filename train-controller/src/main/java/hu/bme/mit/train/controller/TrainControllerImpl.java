@@ -50,6 +50,8 @@ public class TrainControllerImpl implements TrainController {
 	public void setEmergencySignal(boolean newEmergencySignalOn)
 	{
 		this.emergencySignalOn = newEmergencySignalOn;
+		int l = 21;
+		//conflict work plllsss
 	}
 
 	public void emergencyBreak()
