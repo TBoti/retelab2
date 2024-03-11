@@ -50,13 +50,16 @@ public class TrainControllerImpl implements TrainController {
 	public void setEmergencySignal(boolean newEmergencySignalOn)
 	{
 		this.emergencySignalOn = newEmergencySignalOn;
+		int i = 0;
+		//all I want for christmas is a merge conflict
 	}
 
 	public void emergencyBreak()
 	{
 		if(this.emergencySignalOn)
 		{
-			this.referenceSpeed = 0; //hi conflict aaaaaaaa
+			//work pls
+			this.referenceSpeed = 0; //hi conflictgggggggggggggggggggggggggggggggggg
 		}
 	}
 
