@@ -58,7 +58,8 @@ public class TrainControllerImpl implements TrainController {
 	{
 		if(this.emergencySignalOn)
 		{
-			this.referenceSpeed = 0; //hi conflict aaaaaaaa
+			//work pls
+			this.referenceSpeed = 0; //hi conflictgggggggggggggggggggggggggggggggggg
 		}
 	}
 
